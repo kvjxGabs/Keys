@@ -1,6 +1,6 @@
 {
   "keys": [
-    { "key": "CODM-12345", "exp": "2026-12-31", "slots": 1 },
+    { "key": "CODM-12345", "exp": "2026-02-28", "slots": 1 },
     { "key": "CODM-ABCDE", "exp": "2025-06-01", "slots": 2 }
   ]
 }
